@@ -1,2 +1,2 @@
-# Conepts
+# Concepts
 Exotale Public Concepts
