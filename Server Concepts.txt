@@ -6,44 +6,44 @@
           Clans
 ----------------------------
  
--> Erstellung von Clans möglich
-	- für jeden Spieler
- 	- Clans können bis zu 5 Member haben
- 	- wählbarer von Tag 
+-> Erstellung von Clans mÃ¶glich
+	- fÃ¼r jeden Spieler
+ 	- Clans kÃ¶nnen bis zu 5 Member haben
+ 	- wÃ¤hlbarer von Tag 
  		> bis zu 5 Zeichen
 		> muss individuell sein
- 	- wählbarer Name
+ 	- wÃ¤hlbarer Name
 		> [Anzahl an Zeichen]
 		> muss individuell sein
 
-- > Bearbeitung von Clans möglich
-	- nachträgliche namensänderung möglich
-	- spieler nachträglich einladen
+- > Bearbeitung von Clans mÃ¶glich
+	- nachtrÃ¤gliche namensÃ¤nderung mÃ¶glich
+	- spieler nachtrÃ¤glich einladen
 	- spieler kicken
 	- spieler promoten
 
 - > Promoting System
-	- spieler können verschiedene rechte haben innerhalb des Clans
+	- spieler kÃ¶nnen verschiedene rechte haben innerhalb des Clans
 		> kick recht
 		> invite recht
 		> challenge recht
 		> namens vergebungsrecht
 		> tag vergebungsrecht
-	- rechte können von spielern im Clan eigenständig vergeben werden
+	- rechte kÃ¶nnen von spielern im Clan eigenstÃ¤ndig vergeben werden
 
-- > Clan stabilitäts system
-	- Clan stabilitäts indikator
+- > Clan stabilitÃ¤ts system
+	- Clan stabilitÃ¤ts indikator
 		> von jedem Spieler aufrufbar
 		> aufrufbar und bei challenging sichtbar
 		> [bei tunieren relevant]
-	- gibt Auskunft über
-		> zuverlässigkeit des Clans bei challenge antritt
+	- gibt Auskunft Ã¼ber
+		> zuverlÃ¤ssigkeit des Clans bei challenge antritt
 		> wichtig bei invites neuer member
 	- errechnet sich wie folgt:
 		> Die (Spieler-Spieler-Werte) bezeihen sich von jedem Spieler im Clan individuell zu anderen Clan-Mitgliedern.
 		> Die (Spieler-Spieler-Werte) sinkt und steigt je nach [gesamtverhalten des Clans] individuel zu anderen Clan-Mitgliedern. 
 		> Der (Spieler-Mittelwert) errechnet sich aus dem Mittelwert der Summe aller (Spieler-Spieler-Werte). 
-		> Der (Clan-Stabilitätswert) errechnet sich aus dem Mittelwert der Summe aller (Spieler-Mittelwerte).
+		> Der (Clan-StabilitÃ¤tswert) errechnet sich aus dem Mittelwert der Summe aller (Spieler-Mittelwerte).
 
 - > Clan events
 	- [Clan Tuniere]
@@ -55,49 +55,49 @@
           Karma
 ----------------------------
 
-- > Karma Grundsätze
+- > Karma GrundsÃ¤tze
 	- Wert einschaubar
 		> Kann von jedem Spieler per befehl eingesehen werden
 		> Wird nicht ohne anfrage ausgestrahlt
 	- Grundidee
-		> Wert ermöglicht dir Positive und Negative Features
-		> anhand dessen kann man wahlen für Clans treffen
-		> soll das Spielerlebnis für Spieler angenehmer machen
-		> Spieler die Negativ auffallen werden den Server nicht mehr im vollen Umfang genießen können
+		> Wert ermÃ¶glicht dir Positive und Negative Features
+		> anhand dessen kann man wahlen fÃ¼r Clans treffen
+		> soll das Spielerlebnis fÃ¼r Spieler angenehmer machen
+		> Spieler die Negativ auffallen werden den Server nicht mehr im vollen Umfang genieÃŸen kÃ¶nnen
 
-- > Karma Steigerungsmöglichkeiten
+- > Karma SteigerungsmÃ¶glichkeiten
 	- Absolvieren von Games
 		> Karma steigert sich durch absolvieren von Games ohne dabei negatives Karma zu verursachen!
 	- [Karma steigert sich durch Ehrenaktionen]
-	- [Karma steigert sich durch Steigerung des Clan-Stabiliäts-Indikators]
+	- [Karma steigert sich durch Steigerung des Clan-StabiliÃ¤ts-Indikators]
 
 - > Karma Senkungsaktionen
 	- Negative formulierungen
 		> senken Karma
-		> verschiedene Formulierungen führen zu stärkeren Abzügen (Karma)
+		> verschiedene Formulierungen fÃ¼hren zu stÃ¤rkeren AbzÃ¼gen (Karma)
 		> Formulierungen werden [nicht/kaum] geblockt
 	- Leave Game
-		> Scaled mit häufigkeit
+		> Scaled mit hÃ¤ufigkeit
         - [AFK]
 	- Buguse
 
 - > Karma folgen Negativ
-	- Chat einschränkungen
+	- Chat einschrÃ¤nkungen
 		> keine Chatfunktionsbegrenzungen durch Zeit
 		> Chat wird ab bestimmtem negativem Wert eingegrenzt
-		> erst ab überschreiten des Wertes wird Chat wieder freigegeben
+		> erst ab Ã¼berschreiten des Wertes wird Chat wieder freigegeben
 	- Low Priority Queue
-		> Suche für Spieler bei unterschittenem Karmawert wird nicht priorisiert
-		> Kickpriority durch Ranghöhere spieler wird angehoben
-	- [In Game Deco Käufe]
-		> sind nur noch für dich selbst sichtbar
+		> Suche fÃ¼r Spieler bei unterschittenem Karmawert wird nicht priorisiert
+		> Kickpriority durch RanghÃ¶here spieler wird angehoben
+	- [In Game Deco KÃ¤ufe]
+		> sind nur noch fÃ¼r dich selbst sichtbar
 
 - > Karma folgen Positiv
-	- Merkmal äuserlich
-		> [bei Spitzenwerten Namensfärbung zu [Gold]]
-	- [In Game Deco Käufe]
-		> bei steigendem Karma können Rabatt coins gesammelt werden
-		> Rabatt coins vergünstigen in Game Deco
+	- Merkmal Ã¤userlich
+		> [bei Spitzenwerten NamensfÃ¤rbung zu [Gold]]
+	- [In Game Deco KÃ¤ufe]
+		> bei steigendem Karma kÃ¶nnen Rabatt coins gesammelt werden
+		> Rabatt coins vergÃ¼nstigen in Game Deco
 		> Ab hohem Karma level werden neue Deco's zum Kauf freigeschaltet
 
 
@@ -122,4 +122,4 @@ studio
 other minigames
 
 
-############################
+#############################
