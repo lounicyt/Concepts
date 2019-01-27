@@ -9,7 +9,7 @@
 -> Erstellung von Clans möglich
 	- für jeden Spieler
  	- Clans können bis zu 5 Member haben
- 	- wählbarer von Tag 
+ 	- wählbarer Tag 
  		> bis zu 5 Zeichen
 		> muss individuell sein
  	- wählbarer Name
@@ -17,7 +17,7 @@
 		> muss individuell sein
 
 - > Bearbeitung von Clans möglich
-	- nachträgliche namensänderung möglich
+	- nachträgliche namensänderung möglich (mit Tokens die man für Spielzeit und andere Aktionen(API) bekommt)
 	- spieler nachträglich einladen
 	- spieler kicken
 	- spieler promoten
@@ -49,7 +49,11 @@
 	- [Clan Tuniere]
         - [Challenching zwischen Clans]
 	- [Clan ranking-System] 
-
+	
+	
+- > Mod
+	Serverübergreifende Mod mit Datenbank so das
+	jeder Clan auf allen Servern mit der Mod syncronisiert wird
 
 ----------------------------
           Karma
@@ -78,7 +82,7 @@
 		> Formulierungen werden [nicht/kaum] geblockt
 	- Leave Game
 		> Scaled mit häufigkeit
-        - [AFK]
+        - Combatlogging
 	- Buguse
 
 - > Karma folgen Negativ
