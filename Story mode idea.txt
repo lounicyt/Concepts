@@ -3,7 +3,7 @@ Exotale Story:
 You were starting in a Theme based location!
 There you are able collect Coin like symbols through dungeons, difficulty jump and runs or other quests.
 If you get enough collectables in the certain area, you can upgrade your transport maschine to travel to the next area!
-every area also contains also a boss find at the end.
+every area also contains also a boss fight at the end.
 
 With the Hytale modelmaker, we are able to create our own mobs and creatures to fight against or interact with,
 every area has to contain his own style and creatures to make it unique.
