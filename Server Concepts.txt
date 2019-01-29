@@ -6,15 +6,15 @@
           Clans
 ----------------------------
  
--> Erstellung von Clans möglich
-	- für jeden Spieler
- 	- Clans können bis zu 5 Member haben
- 	- wählbarer Tag 
- 		> bis zu 5 Zeichen
-		> muss individuell sein
- 	- wählbarer Name
-		> [Anzahl an Zeichen]
-		> muss individuell sein
+-> Creating Clans
+	- for every Player
+ 	- can have to 5 members
+ 	- chosable Tag
+ 		> to 5 Symbols
+		> forced to be indivitually
+ 	- choseable Name
+		> to 16 Symbols
+		> forced to be indivitually
 
 - > Bearbeitung von Clans möglich
 	- nachträgliche namensänderung möglich (mit Tokens die man für Spielzeit und andere Aktionen(API) bekommt)
